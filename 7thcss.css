@@ -1,0 +1,9 @@
+.bgimg{
+	background-image: url('https://media.tenor.com/KPBQP3CRmQIAAAAS/waterfall-nature.gif');
+	background-size: cover;
+	height: 100vh;
+}
+.third{
+	margin: 50px;
+	padding: 100;
+}
